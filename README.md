@@ -8,6 +8,13 @@ This Streamlit app helps find similar Game of Thrones characters based on their 
 - Reduces dimensions with t-SNE
 - Plots and compares characters based on dialogue similarity
 
+  
+## 🌐 Live Demo
+
+👉 [Click to View Live App](https://6m6h3gboa7rbvdbtopefjr.streamlit.app)
+
+---
+
 ## 📂 Dataset
 
 Uses `script-bag-of-words.json` containing dialogue data.
